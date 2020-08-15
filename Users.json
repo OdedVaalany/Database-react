@@ -5,6 +5,7 @@
     "lastname" : "vaalany",
     "idnumber" : "208230474",
     "phonenumber": "0546862210",
+    "password": "avoded2082",
     "transaction" : [
       {
         "title" : "hello",
