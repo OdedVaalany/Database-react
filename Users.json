@@ -15,5 +15,22 @@
         "currency" : "ILS"
       }
     ]
+    },
+    {
+    "id" : 1,
+    "fisrtname" : "uzi",
+    "lastname" : "vaalany",
+    "idnumber" : "208230474",
+    "phonenumber": "0546862210",
+    "password": "avvvvdf",
+    "enail": "avoded2@gmail.com",
+    "transaction" : [
+      {
+        "title" : "hello",
+        "date" : 55555458,
+        "amount": -2058,
+        "currency" : "ILS"
+      }
+    ]
     }
   ]
