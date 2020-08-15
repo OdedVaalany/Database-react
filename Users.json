@@ -1,0 +1,17 @@
+[
+    {
+    "id" : 1,
+    "fisrtname" : "oded",
+    "lastname" : "vaalany",
+    "idnumber" : "208230474",
+    "phonenumber": "0546862210",
+    "transaction" : [
+      {
+        "title" : "hello",
+        "date" : 55555458,
+        "amount": -2058,
+        "currency" : "ILS"
+      }
+    ]
+    }
+  ]
